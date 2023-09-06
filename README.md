@@ -12,4 +12,5 @@ I applied the concepts I learned in my CPSC 223 class at Yale to implement Dijks
 
 In the end, the yacht placed 3rd out of 5 boats in their competition. You can find more details about their performance [here](https://yachtscoring.com/event_results_cumulative.cfm?eID=14646).
 
+<br>
 ![Data Provider, Application Photo, Predict Wind](DataSource.png)
