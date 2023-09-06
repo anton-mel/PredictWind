@@ -11,7 +11,7 @@ While sailing skills are undoubtedly a crucial aspect of success, having an accu
 I applied the concepts I learned in my CPSC 223 class at Yale to implement Dijkstra's Algorithm. This algorithm allowed me to find the shortest route based on the weightings associated with wind characteristics.
 
 In the end, the yacht placed 3rd out of 5 boats in their competition. You can find more details about their performance [here](https://yachtscoring.com/event_results_cumulative.cfm?eID=14646).
+Cape Gazzete Article: ![Article](https://www.capegazette.com/article/new-jersey-crew-crosses-bay-win-lewes-cup/261257)
 <br><br>
 
 ![Data Provider, Application Photo, Predict Wind](DataSource.png)
-Cape Gazzete Article: ![Article](https://www.capegazette.com/article/new-jersey-crew-crosses-bay-win-lewes-cup/261257)
