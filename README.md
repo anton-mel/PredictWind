@@ -14,3 +14,4 @@ In the end, the yacht placed 3rd out of 5 boats in their competition. You can fi
 <br><br>
 
 ![Data Provider, Application Photo, Predict Wind](DataSource.png)
+Cape Gazzete Article: ![Article](https://www.capegazette.com/article/new-jersey-crew-crosses-bay-win-lewes-cup/261257)
