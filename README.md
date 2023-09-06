@@ -8,9 +8,8 @@ During the summer, I had the opportunity to stay with a Ukrainian family who hap
 
 While sailing skills are undoubtedly a crucial aspect of success, having an accurate route could be a key factor in a competition. Sometimes, taking a more indirect path, utilizing the wind's power, and analyzing various factors can lead to victory.
 
-I applied the concepts I learned in my CPSC 223 class at Yale to implement Dijkstra's Algorithm. This algorithm allowed me to find the shortest route based on the weightings associated with wind characteristics:
-
-![Data Provider, Application Photo, Predict Wind](DataSource.png)
-![The shortest path built on PWG model, Gneral Picture](./Best_By_PWG.png)
+I applied the concepts I learned in my CPSC 223 class at Yale to implement Dijkstra's Algorithm. This algorithm allowed me to find the shortest route based on the weightings associated with wind characteristics.
 
 In the end, the yacht placed 3rd out of 5 boats in their competition. You can find more details about their performance [here](https://yachtscoring.com/event_results_cumulative.cfm?eID=14646).
+
+![Data Provider, Application Photo, Predict Wind](DataSource.png)
