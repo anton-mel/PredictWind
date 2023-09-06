@@ -1,4 +1,4 @@
-# PredictWind Bermuda Race Wind Data Analysis and Best Sailing Path using Dijkstra's Algorithm
+# PredictWind Bermuda Race Wind Data Analysis and Best Sailing Path using Dijkstra's Algorithm and Other Techniques
 
 During the summer, I had the opportunity to stay with a Ukrainian family who happened to know Mr. Askold Sandursky. While he works for a cancer medicine company, his fascinating hobby is yacht sailing. I was looking for projects to get involved in, and he invited me to perform data analysis for a future route to Bermuda. Primarily, I conducted an evaluation of various weather forecasting models, including PWS, ECMWF, GFS, SPIRE, and UKMO, to determine which one provided the most accurate predictions and for what characteristics. Eventually, we concluded that:
 
