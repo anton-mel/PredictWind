@@ -4,7 +4,7 @@ During the summer, I had a great opportunity to stay with a Ukrainian family in 
 
 The most significant challenge was integrating the most reliable weather forecasting models for specific wind characteristics to find the shortest competition route. I was delighted to apply knowledge from my CPSC 223 & 365 classes at Yale, Dijkstra's Algorithm. However, ensuring a continuous path, independent of weather grid points, presented additional hurdles in computation (for further discussion).
 
-Despite these challenges, our yacht secured an impressive third place out of five boats in the competition. This project (published on GitHub) underscored the significance of data analysis and algorithmic solutions in optimizing even yacht racing routes, demonstrating their potential in the field. You can find more details about their performance [here](https://yachtscoring.com/event_results_cumulative.cfm?eID=14646) and Cape Gazzete [Article](https://www.capegazette.com/article/new-jersey-crew-crosses-bay-win-lewes-cup/261257).
+Despite these challenges, our yacht secured an impressive third place out of five boats in the competition. This project underscored the significance of data analysis and algorithmic solutions in optimizing even yacht racing routes, demonstrating their potential in the field. You can find more details about their performance [here](https://yachtscoring.com/event_results_cumulative.cfm?eID=14646) and Cape Gazzete [Article](https://www.capegazette.com/article/new-jersey-crew-crosses-bay-win-lewes-cup/261257).
 <br><br>
 
 ![Data Provider, Application Photo, Predict Wind](DataSource.png)
