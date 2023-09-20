@@ -1,15 +1,10 @@
 # PredictWind Bermuda Race Wind Data Analysis and Best Sailing Path using Dijkstra's Algorithm and Other Techniques
 
-During the summer, I had the opportunity to stay with a Ukrainian family who happened to know Mr. Askold Sandursky. While he works for a cancer medicine company, his fascinating hobby is yacht sailing. I was looking for projects to get involved in, and he invited me to perform data analysis for a future route to Bermuda. Primarily, I conducted an evaluation of various weather forecasting models, including PWS, ECMWF, GFS, SPIRE, and UKMO, to determine which one provided the most accurate predictions and for what characteristics. Eventually, we concluded that:
+During the summer, I had a great opportunity to stay with a Ukrainian family in Philadelphia who happened to know Mr. Askold Sandursky. He was looking for weather data assistant for a yacht sailing competition to Bermuda and invited me to help with some data analysis for a future route. He taught me a lot about different models and how he used them before for the competition. The primary challenge in this problem was dealing with the immense volume of weather data from various models (PWS, ECMWF, GFS, SPIRE, and UKMO), which made manual analysis impractical. To tackle this issue, I developed a Python program that automated the analysis of 20 weather data gathering stations along our route, identifying deviations between predictions and actual data on prediction day. Collecting data every 3 hours daily throughout the month aimed to unveil patterns and determine the best models for wind speed, gusts, directions, and temperature; then, explain why they emerged within a small research of each model.
 
-1. The PWG model works best for Wind Directions due to its detailed data.
-2. ECMWF performs well for gust forecasts, as it provides more accurate finishing times.
-3. SPIRE excels in predicting Wind Speed because of its detailed data.
+The most significant challenge was integrating the most reliable weather forecasting models for specific wind characteristics to find the shortest competition route. I was delighted to apply knowledge from my CPSC 223 & 365 classes at Yale, Dijkstra's Algorithm. However, ensuring a continuous path, independent of weather grid points, presented additional hurdles in computation (for further discussion).
 
-While sailing skills are undoubtedly a crucial aspect of success, having an accurate route could be a key factor in a competition. Sometimes, taking a more indirect path, utilizing the wind's power, and analyzing various factors can lead to victory.
+Despite these challenges, our yacht secured an impressive third place out of five boats in the competition. This project underscored the significance of data analysis and algorithmic solutions in optimizing even yacht racing routes, demonstrating their potential in the field. You can find more details about their performance [here](https://yachtscoring.com/event_results_cumulative.cfm?eID=14646) and Cape Gazzete [Article](https://www.capegazette.com/article/new-jersey-crew-crosses-bay-win-lewes-cup/261257).
+<br><br>
 
-I applied the concepts I learned in my CPSC 223 class at Yale to implement Dijkstra's Algorithm. This algorithm allowed me to find the shortest route based on the weightings associated with wind characteristics:
-
-![The shortest path built on PWG model](./Best_By_PWG.png)
-
-In the end, the yacht placed 3rd out of 5 boats in their competition. You can find more details about their performance [here](https://yachtscoring.com/event_results_cumulative.cfm?eID=14646).
+![Data Provider, Application Photo, Predict Wind](DataSource.png)
