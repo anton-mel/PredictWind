@@ -11,4 +11,4 @@ Notwithstanding these challenges, our yacht achieved an impressive third-place f
 For more details regarding our performance, please visit this link, and you can also find coverage in the Cape Gazette [Article](https://www.capegazette.com/article/new-jersey-crew-crosses-bay-win-lewes-cup/261257).
 <br><br>
 
-![Data Provider, Application Photo, Predict Wind](DataSource.png)
+![Data Provider, Application Photo, Predict Wind](Source.png)
