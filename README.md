@@ -1,4 +1,4 @@
-# PredictWind Bermuda Race Wind Data Analysis and Best Sailing Path using Dijkstra's Algorithm and Other Techniques
+# PredictWind Bermuda Race Wind Data Analysis and Best Sailing Path using Upgraded Dijkstra's Algorithm
 
 During the summer, I had a valuable opportunity to reside with a Ukrainian family in Philadelphia, who had connections with Mr. Askold Sandursky. Mr. Sandursky was in need of a weather data assistant for a high-stakes yacht sailing competition to Bermuda and graciously invited me to contribute to the data analysis process for future route planning. Under his mentorship, I gained insights into diverse modeling approaches he had previously employed in competitive sailing.
 
