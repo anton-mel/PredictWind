@@ -1,6 +1,6 @@
 # Bermuda Race, Wind Data Analysis, Best Sailing Path, Dijkstra's Algorithm
 
-During the summer, I had a valuable opportunity to reside with a Ukrainian family in Philadelphia, who had connections with Mr. Askold Sandursky. Mr. Sandursky was in need of a weather data assistant for a high-stakes yacht sailing competition to Bermuda and graciously invited me to contribute to the data analysis process for future route planning. Under his mentorship, I gained insights into diverse modeling approaches he had previously employed in competitive sailing.
+This project is for a yacht sailing competition to Bermuda.
 
 The primary challenge in this endeavor lay in handling the vast volume of weather data originating from multiple sources, including PWS, ECMWF, GFS, SPIRE, and UKMO models. The sheer magnitude of data rendered manual analysis unfeasible. To address this issue, I developed a Python program capable of automating the analysis of 20 weather data collection stations along our intended route. This automated system effectively identified discrepancies between predictions and actual data on the day of the race. Over the course of a month, we collected data at 3-hour intervals daily, with the aim of uncovering recurring patterns and determining the most accurate models for predicting wind speed, gusts, wind direction, and temperature.
 
