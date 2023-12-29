@@ -6,7 +6,7 @@ The primary challenge in this endeavor lay in handling the vast volume of weathe
 
 The most formidable challenge was integrating those most reliable weather forecasting models, tailored to specific wind characteristics, to chart the shortest competitive route. I applied the knowledge gained from my CPSC 223 & 365 classes at Yale to implement a bit more sophisticated Dijkstra's Algorithm. However, ensuring a continuous path while circumventing weather grid points introduced additional computational complexities, warranting further discussion.
 
-Notwithstanding these challenges, our yacht achieved an impressive third-place finish among five competing boats. This project underscored the pivotal role of data analysis and algorithmic solutions in optimizing yacht racing routes, showcasing their potential within the field.
+Notwithstanding these challenges, the team's yacht achieved an impressive third-place finish among five competing boats. This project underscored the pivotal role of data analysis and algorithmic solutions in optimizing yacht racing routes, showcasing their potential within the field.
 
 For more details regarding our performance, please visit this link, and you can also find coverage in the Cape Gazette [Article](https://www.capegazette.com/article/new-jersey-crew-crosses-bay-win-lewes-cup/261257).
 <br><br>
