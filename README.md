@@ -1,4 +1,4 @@
-# Bermuda Race, Wind Data Analysis, Best Sailing Path, Dijkstra's Algorithm, 3rd Place
+# Bermuda Yacht Race, Wind Data Analysis, Best Sailing Path, Dijkstra's Algorithm, 3rd Place
 
 This project is for a yacht sailing competition to Bermuda.
 
